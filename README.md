@@ -12,14 +12,14 @@ After defining each function, uncomment the corresponding function calls in main
 * min(arr) - returns the minimum value in an array
 * chooseRandom(arr) - returns a random element from an array
 
-## Bonus.java
+## (Optional) Bonus.java
 Define the following functions, **and add calls to test them**:
 * isEven(n) - returns true if n is even, false otherwise
 * nextMultiple(n, m) - returns the next multiple of m after n
 * sort(arr) - Returns a sorted version of an array of integers
 
 
-## Recursion.java
+## (Optional) Recursion.java
 Read about [recursion](https://www.geeksforgeeks.org/recursion-in-java/), and implement the following functions **recursively**:
 
 * factorial(n) - Returns the factorial of n
