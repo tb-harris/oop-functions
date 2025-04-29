@@ -1,4 +1,4 @@
-# Methods Practice
+# Functions Practice
 
 ## Main.java
 Define the following functions.
